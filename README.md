@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alondra Mora</h1>
+<h1 align="center">Hi, I'm Alondra Mora 👋🏽</h1>
 <h3 align="center">A Software Engineer @100devs</h3>
 
 - 🌱 I’m currently learning **the MERN Stack**
