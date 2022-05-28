@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Alondra Mora 👋🏽</h1>
 <h3 align="center">A Software Engineer @100devs</h3>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alondramora&hide_border=true&currStreakNum=a6b4a2&ring=ffffff&background=12160F&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=a6b4a2&dates=959595">
+</div>
+
 - 🌱 I’m currently learning **the MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://alondramoradev.netlify.app/](https://alondramoradev.netlify.app/)
