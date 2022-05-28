@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm Alondra Mora 👋🏽</h1>
-<h3 align="center">A Software Engineer @100devs</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alondramora&hide_border=true&currStreakNum=a6b4a2&ring=ffffff&background=12160F&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=a6b4a2&dates=959595">
-</div>
+<h1 align="center">Hi, I'm Alondra 🌲</h1>
+<h3 align="center">A full stack software engineer at 100 Devs</h3>
 
 - 🌱 I’m currently learning **the MERN Stack**
 
@@ -11,11 +7,37 @@
 
 - ⚡ Fun fact: **I love to hike**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moracodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moracodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alondra-mora-880ba6191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alondra-mora-880ba6191/" height="30" width="40" /></a>
-</p>
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=alondramora&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=C1A08F&fire=9B94EA&currStreakLabel=9B94EA&stroke=C1C1C1">
+</div>        
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## My Skill Set
+
+<table><tr><td valign="top" width="50%">
+
+### Frontend
+
+<div align="center">  
+<img style="margin: 10px" src="svg-icons/react.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="svg-icons/CSS3.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="svg-icons/HTML5.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="svg-icons/D3js.svg" alt="D3.js" height="50" />  
+</div>
+
+</td><td valign="top" width="50%">
+
+### Backend
+
+<div align="center">  
+<img style="margin: 10px" src="svg-icons/mongoDB.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="svg-icons/nodejs.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="svg-icons/git.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="50"/>  
+<img style="margin: 10px" src="svg-icons/express.svg" alt="Express.js" height="50" />
+<img style="margin: 10px" src="svg-icons/postgreSQL.svg" alt="PostgreSQL" height="50" />  
+</div>
+
+</td></tr></table>
+
+<br/>
