@@ -1,14 +1,13 @@
+<img src="myghbanner.svg" alt="Alondra Mora Software Engineer banner">
 <h1 align="center">Hi, I'm Alondra 👋🏽</h1>
 <h3 align="center">A full stack software engineer at 100 Devs</h3>
 
-- 🌱 I’m currently learning **the MERN Stack**
-
-- 👨‍💻 All of my projects are available at [https://alondramoradev.netlify.app/](https://alondramoradev.netlify.app/)
-
-- ⚡ Fun fact: **I love to hike**
+<p align="center">
+Thanks for stopping by! I'm currently learning the MERN stack and using JavaScript, HTML, CSS, to build and deploy full stack websites and web applications. When I'm not coding you can find me outside hiking in the beautiful Pacific Northwest 🌲 
+</p>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=alondramora&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=C1A08F&fire=9B94EA&currStreakLabel=9B94EA&stroke=C1C1C1">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=alondramora&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=C1A08F&fire=9B94EA&currStreakLabel=9B94EA&stroke=C1C1C1&background=FFFFFF00&sideNums=C1777D">
 </div>  
 
 <div align="center">
