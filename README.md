@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alondra 🌲</h1>
+<h1 align="center">Hi, I'm Alondra 👋🏽</h1>
 <h3 align="center">A full stack software engineer at 100 Devs</h3>
 
 - 🌱 I’m currently learning **the MERN Stack**
