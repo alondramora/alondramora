@@ -1,4 +1,3 @@
-<img src="myghbanner.svg" alt="Alondra Mora Software Engineer banner">
 <h1 align="center">Hi, I'm Alondra 👋🏽</h1>
 <h3 align="center">A software engineer at 100 Devs</h3>
 
