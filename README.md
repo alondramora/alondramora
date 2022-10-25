@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer at 100 Devs</h3>
 
 <p align="center">
-Thanks for stopping by! I'm currently learning the MERN stack and using JavaScript, HTML, CSS, to build and deploy full stack websites and web applications. When I'm not coding you can find me outside hiking in the beautiful Pacific Northwest 🌲 
+Thanks for stopping by! I'm currently learning the MERN stack to build and deploy full stack websites and web applications. When I'm not coding you can find me outside hiking in the beautiful Pacific Northwest 🌲 
 </p>
 
 <div align="center">
