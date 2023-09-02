@@ -2,7 +2,7 @@
 <h3 align="center">QA Analyst Learning Web Development</h3>
 
 <p align="center">
-Thanks for stopping by! I'm currently learning the MERN stack to build and deploy full stack websites and web applications. When I'm not coding you can find me outside hiking 🌲 
+Thanks for stopping by! I'm currently learning the MERN stack to build and deploy full stack websites and web applications. 🌲 
 </p>
 
 <div align="center">
