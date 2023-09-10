@@ -5,9 +5,9 @@
 Thanks for stopping by! I'm currently learning the MERN stack to build and deploy full stack websites and web applications. 🌲 
 </p>
 
-<div align="center">
+<!-- <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=alondramora&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=C1A08F&fire=9B94EA&currStreakLabel=9B94EA&stroke=C1C1C1&background=FFFFFF00&sideNums=C1777D">
-</div>  
+</div> -->  
 
 <div align="center">
 
